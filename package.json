@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "TZ=UTC nodemon --exec babel-node index.js",
-    "build": "babel index.js --out-file index-compiled.js"
+    "start": "TZ=UTC nodemon --exec babel-node index.js"
   },
   "author": "",
   "license": "ISC",
